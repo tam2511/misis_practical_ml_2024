@@ -11,3 +11,11 @@
 
 - Лекция: https://disk.yandex.ru/i/wgJfwE6sSUB0LA
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-2?scriptVersionId=207013810
+
+## Занятие 3. Domain adaptation
+
+- Лекция: https://disk.yandex.ru/i/QTNIdW0V2xY-3w
+- Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-3?scriptVersionId=207717170
+- Данные для ДЗ №2: https://www.kaggle.com/datasets/karntiwari/home-office-dataset
+- Дедлайн: 6 декабря
+- 
