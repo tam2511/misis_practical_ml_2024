@@ -18,4 +18,8 @@
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-3?scriptVersionId=207717170
 - Данные для ДЗ №2: https://www.kaggle.com/datasets/karntiwari/home-office-dataset
 - Дедлайн: 6 декабря
-- 
+
+## Занятие 4. Neural network visualization
+
+- Лекция: https://disk.yandex.ru/i/9cYIkm18Da8UgA
+- Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-4
