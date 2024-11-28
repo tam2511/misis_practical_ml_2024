@@ -23,3 +23,11 @@
 
 - Лекция: https://disk.yandex.ru/i/9cYIkm18Da8UgA
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-4
+
+## Занятие 5. Unsupervized и Weakly supervized learning
+
+- Лекция: https://disk.yandex.ru/d/hiz5kY8iSdWK-Q
+- Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-5?scriptVersionId=210070327
+- Данные для ДЗ №3: https://www.kaggle.com/datasets/timofeev25/chicken-test и https://www.kaggle.com/datasets/timofeev25/chickens
+- Дедлайн: к выставлению оценок
+
