@@ -31,7 +31,7 @@
 - Данные для ДЗ №3: https://www.kaggle.com/datasets/timofeev25/chicken-test и https://www.kaggle.com/datasets/timofeev25/chickens
 - Дедлайн: к выставлению оценок
 
-# Занятие 6. Semi и Self supervized learning
+## Занятие 6. Semi и Self supervized learning
 
 - Лекция: https://disk.yandex.ru/i/dKcZuoGQ7x5-_A
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-6
