@@ -35,3 +35,8 @@
 
 - Лекция: https://disk.yandex.ru/i/dKcZuoGQ7x5-_A
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-6
+
+## Занятие 7. Model optimization
+
+- Лекция: https://disk.yandex.ru/d/ZesrLlB6DrQktg
+- Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-7
