@@ -40,3 +40,9 @@
 
 - Лекция: https://disk.yandex.ru/d/ZesrLlB6DrQktg
 - Семинар: https://www.kaggle.com/code/timofeev25/ml-misis-sem-7
+- Данные для ДЗ №3: https://www.kaggle.com/datasets/timofeev25/chickens
+- Дедлайн: к выставлению оценок
+
+## Занятие 8. Model inference
+
+- Лекция: https://disk.yandex.ru/i/asu28oHkvMWcFg
